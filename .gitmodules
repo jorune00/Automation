@@ -1,0 +1,3 @@
+[submodule "send_email_automation"]
+	path = send_email_automation
+	url = https://github.com/jorune00/send_email_automation.git
