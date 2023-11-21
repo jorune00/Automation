@@ -1,3 +1,6 @@
 [submodule "send_email_automation"]
 	path = send_email_automation
 	url = https://github.com/jorune00/send_email_automation.git
+[submodule "Date_Generator"]
+	path = Date_Generator
+	url = https://github.com/jorune00/Date_Generator.git
